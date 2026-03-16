@@ -23,13 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         :  example: "She/They"  
+  pronouns         : "She/They"  
   bio              : "Health Information Technology Professional"
   location         : "Louisville, KY"
   employer         : "update"
   uri              : # URL
-  email            : "none@example.org" 
-
+  email            : "liz@trantanella.me"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
